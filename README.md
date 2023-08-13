@@ -2,7 +2,7 @@
 --------------------------
 
 
-Link to [Interactive Dashboard](https://www.novypro.com/profile_projects/harshalpatil-1)
+Link to [Interactive Dashboard](https://www.novypro.com/project/ecommerce-sales-dashboard-11)
 
 **Problem statement**
 --------------------------
